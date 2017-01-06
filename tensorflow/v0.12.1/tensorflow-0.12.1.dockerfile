@@ -1,0 +1,1 @@
+FROM gcr.io/tensorflow/tensorflow:0.12.1
